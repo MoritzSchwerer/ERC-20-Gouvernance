@@ -24,7 +24,7 @@ const config: HardhatUserConfig = {
     hardhat: {
       forking: {
         url: `https://speedy-nodes-nyc.moralis.io/${process.env.MORALIS_API_KEY}/avalanche/mainnet`,
-        blockNumber: 10426460,
+        blockNumber: 12298430,
       },
     },
   },
